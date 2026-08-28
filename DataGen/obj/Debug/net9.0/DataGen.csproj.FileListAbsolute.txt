@@ -1,0 +1,14 @@
+C:\Users\tcon9\source\repos\CampgroundFinder\DataGen\bin\Debug\net9.0\DataGen.exe
+C:\Users\tcon9\source\repos\CampgroundFinder\DataGen\bin\Debug\net9.0\DataGen.deps.json
+C:\Users\tcon9\source\repos\CampgroundFinder\DataGen\bin\Debug\net9.0\DataGen.runtimeconfig.json
+C:\Users\tcon9\source\repos\CampgroundFinder\DataGen\bin\Debug\net9.0\DataGen.dll
+C:\Users\tcon9\source\repos\CampgroundFinder\DataGen\bin\Debug\net9.0\DataGen.pdb
+C:\Users\tcon9\source\repos\CampgroundFinder\DataGen\obj\Debug\net9.0\DataGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tcon9\source\repos\CampgroundFinder\DataGen\obj\Debug\net9.0\DataGen.AssemblyInfoInputs.cache
+C:\Users\tcon9\source\repos\CampgroundFinder\DataGen\obj\Debug\net9.0\DataGen.AssemblyInfo.cs
+C:\Users\tcon9\source\repos\CampgroundFinder\DataGen\obj\Debug\net9.0\DataGen.csproj.CoreCompileInputs.cache
+C:\Users\tcon9\source\repos\CampgroundFinder\DataGen\obj\Debug\net9.0\DataGen.dll
+C:\Users\tcon9\source\repos\CampgroundFinder\DataGen\obj\Debug\net9.0\refint\DataGen.dll
+C:\Users\tcon9\source\repos\CampgroundFinder\DataGen\obj\Debug\net9.0\DataGen.pdb
+C:\Users\tcon9\source\repos\CampgroundFinder\DataGen\obj\Debug\net9.0\DataGen.genruntimeconfig.cache
+C:\Users\tcon9\source\repos\CampgroundFinder\DataGen\obj\Debug\net9.0\ref\DataGen.dll
