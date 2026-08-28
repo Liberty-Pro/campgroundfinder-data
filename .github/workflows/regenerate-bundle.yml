@@ -1,0 +1,32 @@
+name: Regenerate campground bundle
+
+on:
+  schedule:
+    - cron: '0 8 1 * *'   # 1st of every month, 08:00 UTC - edit this line to change cadence
+  workflow_dispatch: {}    # lets you trigger it manually from the Actions tab too
+
+permissions:
+  contents: write
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '9.0.x'
+
+      - name: Run DataGen
+        working-directory: DataGen
+        run: dotnet run -- ${{ secrets.RIDB_API_KEY }}
+
+      - name: Commit updated bundle
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          cp DataGen/data/campgrounds_bundle.json.gz campgrounds_bundle.json.gz
+          git add campgrounds_bundle.json.gz
+          git diff --cached --quiet && echo "No changes to commit" || git commit -m "Automated bundle regeneration"
+          git push
