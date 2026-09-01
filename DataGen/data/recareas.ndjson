@@ -49,7 +49,6 @@
 {"id":"16597","name":"Big Sky Back Country Byway","lat":46.79242,"lon":-105.31225}
 {"id":"2964","name":"Valley Forge National Historical Park","lat":40.10055,"lon":-75.445819}
 {"id":"2621","name":"Catoctin Mountain Park","lat":39.650685,"lon":-77.464177}
-{"id":"2722","name":"Gettysburg National Military Park","lat":39.815574,"lon":-77.232468}
 {"id":"2215","name":"Yuba Lake Recreation Area","lat":39.378,"lon":-112.0272}
 {"id":"13918","name":"Coronado National Memorial","lat":31.349004,"lon":-110.256157}
 {"id":"10044","name":"El Malpais National Conservation Area","lat":34.970669,"lon":-107.810372}
@@ -205,13 +204,11 @@
 {"id":"1380","name":"Don Edwards San Francisco Bay National Wildlife Refuge","lat":37.531674793,"lon":-122.073393426}
 {"id":"3118","name":"Kasha-Katuwe Tent Rocks National Monument","lat":35.658423,"lon":-106.42303}
 {"id":"10391323","name":"Glennallen Field Office","lat":62.109785,"lon":-145.54451}
-{"id":"1396","name":"Bear River Migratory Bird Refuge","lat":41.5077032,"lon":-112.06899}
 {"id":"10056","name":"Lake Valley Historic Townsite","lat":32.71497611,"lon":-107.5675047}
 {"id":"1312","name":"Bogue Chitto National Wildlife Refuge","lat":30.5609925,"lon":-89.816769}
 {"id":"16510","name":"New River Area of Critical Environmental Concern","lat":42.996253,"lon":-124.450193}
 {"id":"16261","name":"Pony Express Back Country Byway (BCB)","lat":40.230611,"lon":-112.184416}
 {"id":"1742","name":"Smith River Falls Campground","lat":43.790632,"lon":-123.813896}
-{"id":"1557","name":"Parker River National Wildlife Refuge","lat":42.7984367,"lon":-70.849043}
 {"id":"3959","name":"Tualatin River National Wildlife Refuge","lat":45.3821904,"lon":-122.83223}
 {"id":"1279","name":"Ash Meadows National Wildlife Refuge","lat":36.426212875,"lon":-116.327537397}
 {"id":"13976","name":"Pu\u02BBuhonua O H\u014Dnaunau National Historical Park","lat":19.412686,"lon":-155.900879}
@@ -275,7 +272,6 @@
 {"id":"1356","name":"Colusa National Wildlife Refuge","lat":39.19525247,"lon":-122.040873388}
 {"id":"10058","name":"Robledo Mountains OHV Trail System","lat":32.3735,"lon":-106.8566}
 {"id":"1373","name":"Delevan National Wildlife Refuge","lat":39.307166,"lon":-122.09783}
-{"id":"1521","name":"Modoc National Wildlife Refuge","lat":41.4574943,"lon":-120.52005}
 {"id":"1589","name":"Sacramento River National Wildlife Refuge","lat":40.1010877,"lon":-122.13875}
 {"id":"1607","name":"Selawik National Wildlife Refuge","lat":66.894872,"lon":-162.60106}
 {"id":"1647","name":"Trempealeau National Wildlife Refuge","lat":44.0449409,"lon":-91.535376}
@@ -309,7 +305,6 @@
 {"id":"5448","name":"Natchez Trace National Scenic Trail","lat":34.33029,"lon":-88.71001}
 {"id":"1560","name":"Patuxent Research Refuge","lat":39.0263781,"lon":-76.79902}
 {"id":"15094","name":"Steelhead Falls Trail","lat":44.411022,"lon":-121.292613}
-{"id":"16680","name":"Sterling Mine Ditch Trail","lat":42.186613,"lon":-122.95028}
 {"id":"1378","name":"DeSoto National Wildlife Refuge","lat":41.5411997,"lon":-96.030714}
 {"id":"14599","name":"Horse Mountain Wilderness Study Area ","lat":33.98369583,"lon":-108.1315447}
 {"id":"1432","name":"Huron Wetland Management District","lat":44.370209,"lon":-98.383061}
@@ -333,9 +328,7 @@
 {"id":"2789","name":"Kenilworth Park \u0026 Aquatic Gardens","lat":38.9128,"lon":-76.9434}
 {"id":"1351","name":"Clarence Cannon National Wildlife Refuge","lat":39.261263297,"lon":-90.803833368}
 {"id":"1274","name":"Arctic National Wildlife Refuge","lat":69.11254,"lon":-143.54434}
-{"id":"1583","name":"Rocky Mountain Arsenal National Wildlife Refuge","lat":39.815808,"lon":-104.880437}
 {"id":"1522","name":"Monomoy National Wildlife Refuge","lat":41.6845086,"lon":-69.9658225}
-{"id":"1670","name":"Wheeler National Wildlife Refuge","lat":34.5479015,"lon":-86.9504929}
 {"id":"2761","name":"Hovenweep National Monument","lat":37.391341,"lon":-109.004798}
 {"id":"16475","name":"Mt. Pennell","lat":37.87351667,"lon":-110.9086611}
 {"id":"1428","name":"Holla Bend National Wildlife Refuge","lat":35.1629663,"lon":-93.093555}
@@ -344,7 +337,6 @@
 {"id":"16361","name":"Hog Springs Recreation Area","lat":37.960725,"lon":-110.491129}
 {"id":"1411","name":"Guam National Wildlife Refuge","lat":13.6525519,"lon":144.860054}
 {"id":"1430","name":"Humboldt Bay National Wildlife Refuge","lat":40.685853,"lon":-124.20604}
-{"id":"2753","name":"Hawai\u02BBi Volcanoes National Park","lat":19.335504,"lon":-155.470026}
 {"id":"1446","name":"John Heinz National Wildlife Refuge at Tinicum","lat":39.891597,"lon":-75.257294}
 {"id":"1113","name":"Wallowa Whitman National Forest","lat":44.77316,"lon":-117.82993}
 {"id":"1572","name":"Presquile National Wildlife Refuge","lat":37.3490431,"lon":-77.268801}
@@ -353,11 +345,21 @@
 {"id":"4041","name":"Steigerwald Lake National Wildlife Refuge","lat":45.571881,"lon":-122.320604}
 {"id":"1313","name":"Bombay Hook National Wildlife Refuge","lat":39.2598239,"lon":-75.473106}
 {"id":"1350","name":"Cibola National Wildlife Refuge","lat":33.3635127,"lon":-114.66944}
+{"id":"1396","name":"Bear River Migratory Bird Refuge","lat":41.5077032,"lon":-112.06899}
 {"id":"1062","name":"Cleveland National Forest","lat":32.8322,"lon":-116.6469}
 {"id":"1385","name":"Eastern Shore of Virginia National Wildlife Refuge","lat":37.136429131,"lon":-75.964631802}
 {"id":"1444","name":"James River National Wildlife Refuge","lat":37.2724839,"lon":-77.133161}
+{"id":"1557","name":"Parker River National Wildlife Refuge","lat":42.7984367,"lon":-70.849043}
 {"id":"4043","name":"Fisherman Island National Wildlife Refuge","lat":37.093228277,"lon":-75.963674253}
+{"id":"16680","name":"Sterling Mine Ditch Trail","lat":42.186613,"lon":-122.95028}
+{"id":"1521","name":"Modoc National Wildlife Refuge","lat":41.4574943,"lon":-120.52005}
+{"id":"1583","name":"Rocky Mountain Arsenal National Wildlife Refuge","lat":39.815808,"lon":-104.880437}
+{"id":"1670","name":"Wheeler National Wildlife Refuge","lat":34.5479015,"lon":-86.9504929}
+{"id":"2753","name":"Hawai\u02BBi Volcanoes National Park","lat":19.335504,"lon":-155.470026}
+{"id":"2933","name":"Shenandoah National Park","lat":38.492366,"lon":-78.469077}
+{"id":"2722","name":"Gettysburg National Military Park","lat":39.815574,"lon":-77.232468}
 {"id":"63","name":"Vallecito Reservoir","lat":37.39221,"lon":-107.57023}
+{"id":"1436","name":"Iowa Wetland Management District","lat":43.2838156,"lon":-94.110532}
 {"id":"1501","name":"Elizabeth Hartwell Mason Neck National Wildlife Refuge","lat":38.6304313,"lon":-77.177412}
 {"id":"1734","name":"North Wildhorse Recreation Area","lat":41.69015,"lon":-115.81995}
 {"id":"16424","name":"Salvation Knoll","lat":37.539917,"lon":-109.965881}
@@ -1207,6 +1209,7 @@
 {"id":"13651","name":"Forest Heritage National Scenic Byway","lat":0,"lon":0}
 {"id":"13576","name":"Big Cottonwood Canyon Scenic Byway","lat":0,"lon":0}
 {"id":"13902","name":"Wyoming Centennial Scenic Byway","lat":0,"lon":0}
+{"id":"16283","name":"Notch Peak WSA","lat":39.143277,"lon":-113.409304}
 {"id":"348","name":"Senecaville Lake","lat":39.9269,"lon":-81.446545}
 {"id":"16298","name":"Sids Mountain","lat":38.98689664,"lon":-110.8190862}
 {"id":"349","name":"Tappan Lake","lat":40.35833,"lon":-81.22667}
@@ -2351,7 +2354,7 @@
 {"id":"4035","name":"Trinity River National Wildlife Refuge","lat":30.0983171,"lon":-94.765858}
 {"id":"1078","name":"Shawnee National Forest","lat":37.72442,"lon":-88.53678}
 {"id":"3949","name":"Pinellas National Wildlife Refuge","lat":27.6666805,"lon":-82.690734}
-{"id":"1455","name":"Kirtlands Warbler Wildlife Management Area","lat":46.2886975,"lon":-85.944651}
+{"id":"1455","name":"Kirtland\u0027s Warbler Wildlife Management Area","lat":46.2886975,"lon":-85.944651}
 {"id":"1617","name":"St. Catherine Creek National Wildlife Refuge","lat":31.3613456,"lon":-91.417563}
 {"id":"76","name":"Harry Strunk Lake (Medicine Creek State Park Recreation Area)","lat":40.38269,"lon":-100.20561}
 {"id":"1317","name":"Bowdoin Wetland Management District","lat":48.3938682,"lon":-107.72923}
@@ -2657,7 +2660,6 @@
 {"id":"445","name":"Lake Seminole","lat":30.704492,"lon":-84.863755}
 {"id":"1055","name":"White River National Forest","lat":39.3639,"lon":-107.23}
 {"id":"2595","name":"Boston African American National Historic Site","lat":42.359083,"lon":-71.067642}
-{"id":"1436","name":"Iowa Wetland Management District","lat":43.2838156,"lon":-94.110532}
 {"id":"1447","name":"Julia Butler Hansen Refuge for the Columbian White-Tailed Deer","lat":46.232534,"lon":-123.39987}
 {"id":"16545","name":"Temple Trail","lat":36.392067,"lon":-113.151305}
 {"id":"2701","name":"Fort Scott National Historic Site","lat":37.843588,"lon":-94.704292}
@@ -3190,7 +3192,6 @@
 {"id":"292","name":"Lake Oahe","lat":44.451133,"lon":-100.384696}
 {"id":"2632","name":"Chesapeake \u0026 Ohio Canal National Historical Park","lat":39.000284,"lon":-77.24814}
 {"id":"2683","name":"Florissant Fossil Beds National Monument","lat":38.912606,"lon":-105.28034}
-{"id":"2933","name":"Shenandoah National Park","lat":38.492366,"lon":-78.469077}
 {"id":"2615","name":"Canaveral National Seashore","lat":28.786375,"lon":-80.754196}
 {"id":"2782","name":"Joshua Tree National Park","lat":33.914185,"lon":-115.839812}
 {"id":"2853","name":"Padre Island National Seashore","lat":27.053812,"lon":-97.359011}
@@ -3210,8 +3211,8 @@
 {"id":"10041073","name":"Salt Lake Field Office","lat":0,"lon":0}
 {"id":"10004723","name":"","lat":39.0612883,"lon":-123.0563914}
 {"id":"13604","name":"Chesapeake Country Scenic Byway","lat":0,"lon":0}
-{"id":"4056","name":"Two Rivers National Wildlife Refuge","lat":38.9361017,"lon":-90.540375}
 {"id":"1991","name":"Newton Lakes","lat":44.5432857,"lon":-109.1232009}
+{"id":"4056","name":"Two Rivers National Wildlife Refuge","lat":38.9361017,"lon":-90.540375}
 {"id":"491","name":"Two Rivers Dam","lat":33.300374,"lon":-104.723043}
 {"id":"13423","name":"Manly Peak Wilderness","lat":35.904465,"lon":-117.137215}
 {"id":"351","name":"Leesville Lake","lat":40.466762,"lon":-81.193541}
